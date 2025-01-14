@@ -1,5 +1,4 @@
-# Expansion-Strategy-for-Electric-Mobility-in-Uganda
-Zembo: Scaling E-Mobility in Uganda
+# Growing an e-mobility business in the face of fierce competition, grid unreliability, high electricity cost
 
 **Zembo** is a Ugandan e-mobility company focused on retrofitting traditional gas-powered boda-bodas (motorcycle taxis) into electric bikes. As boda-bodas form the backbone of Uganda’s transportation system, Zembo sells its electric bikes directly to consumers and through a lease-to-own model. However, the company faces significant competition, high electricity costs, and grid reliability challenges. Despite this, Uganda generates the majority of its energy from sustainable sources, with 82% from hydro power.
 
@@ -67,5 +66,9 @@ Our **social impact financing** model enables local communities to own franchise
 ## Conclusion: A Sustainable Future for Zembo
 
 Zembo’s hybrid expansion strategy, driven by data-powered decision-making and community empowerment, positions the company to overcome energy challenges and lead Uganda’s e-mobility market. By integrating sustainability, innovation, and local economic development, Zembo is not only scaling its business but also contributing to a greener, more resilient Uganda.
+
+You can view the interactive financial modeling dashboard using the following link:
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDk0ZDQ4ZDQtYjdmMi00ZDNjLWFkODktNjA4MTJlNDI2MWE4IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9)
+
 
 ### What are your thoughts on scaling e-mobility in emerging markets?
