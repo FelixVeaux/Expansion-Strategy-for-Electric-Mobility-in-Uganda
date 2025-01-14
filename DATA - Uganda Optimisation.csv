@@ -1,0 +1,39 @@
+ID,City,Population,Dist from previous,Previous ID,Previous Name,Route ID,Route Color
+1,Kampala,0,0,,,1001,green
+2,Buwama,57800,67,1,Kampala,1001,green
+3,Masaka,0,54,2,Buwama,1001,green
+4,Mbirizi,0,35,3,Masaka,1001,green
+5,Mbarara,261656,80,4,Mbirizi,1001,green
+7,Bushenyi,0,54,5,Mbarara,1001,green
+8,Ntungamo,16915,64,5,Mbarara,1001,green
+9,Kanungu,14600,95,8,Ntungamo,1001,green
+10,Kabale,43500,80,8,Ntungamo,1001,green
+11,Kisoro,35500,75,10,Kabale,1001,green
+12,Mityana,362500,72,1,Kampala,1002,red
+13,Mubende,18936,78,12,Mityana,1002,red
+14,Kyenjoja,19600,120,13,Mubende,1002,red
+15,Fort Portal,55000,50,14,Kyenjoja,1002,red
+16,Kamwenge,17169,65,15,Fort Portal,1002,red
+17,Kasese,67269,77,15,Fort Portal,1002,red
+18,Wakiso,0,20,1,Kampala,1003,Blue Dark
+19,Kiboga,14512,120,18,Wakiso,1003,Blue Dark
+20,Hoima,39625,130,19,Kiboga,1003,Blue Dark
+21,Masindi,31486,80,20,Hoima,1003,Blue Dark
+22,Masindi port,7828,35,21,Masindi,1003,Blue Dark
+23,Bombo,29600,33,1,Kampala,1004,Pink
+24,Luwero,29600,30,23,Bombo,1004,Pink
+25,Nakasongola,6921,65,24,Luwero,1004,Pink
+26,Masindi Port,7828,140,25,Nakasongola,1004,Pink
+27,Gulu_Pink,146858,75,39,Masindi Port,1004,Pink
+28,Mukono,67290,23,1,Kampala,1005,lightblue
+29,Nieru,35036,25,28,Mukono,1005,lightblue
+30,Jinja,93061,45,29,Lugazi,1005,lightblue
+31,Iganga,45024,41,30,Jinja,1005,lightblue
+32,Busembatia,15889,35,31,Iganga,1005,lightblue
+33,Mbale,76493,65,32,Busembatia,1005,lightblue
+34,Kumi,11400,50,33,Mbale,1005,lightblue
+35,Soroti,56400,45,34,Kumi,1005,lightblue
+36,Lira,1193223,115,35,Soroti,1005,lightblue
+37,Gulu_Blue-Light,146858,75,38,Lira,1005,lightblue
+38,Karuma_Blue,2800,79,36,Lira,1004,Pink
+39,Karuma_Pink,2800,100,26,Masindi Port,1005,lightblue
